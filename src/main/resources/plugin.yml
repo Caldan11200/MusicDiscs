@@ -1,0 +1,7 @@
+name: Music
+version: ${project.version}
+main: com.banyulescouts.music.Music
+api-version: 1.17
+depend: [ NoteblockAPI ]
+authors: [ Caldan112 ]
+description: Play custom music
